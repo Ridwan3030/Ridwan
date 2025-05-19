@@ -9,7 +9,7 @@
 - **Monitoring & Logging**: Prometheus, Grafana and CloudWatch  
 
 ## Featured Projects  
-1. **[E-commerce CI/CD Pipeline](https://github.com/RidwanAbdulkadir/ecom-web-app.)**  
+1. **[E-commerce CI/CD Pipeline](https://github.com/RidwanAbdulkadir/CICD)**  
    Automates the build, test, and deployment of an e-commerce app on Kubernetes.  
    Tools: Jenkins, SonarQube, Docker, Kubernetes, AWS.  
 
@@ -19,7 +19,7 @@
 3. **[Ansible Playbooks](https://github.com/RidwanAbdulkadir/ansible)**  
    Ansible automation scripts for server configuration and application deployment.  
 
-4. **[E-commerce Web App](https://github.com/IsaacMorah/ecom-web-app.git)**  
+4. **[E-commerce Web App](https://github.com/RidwanAbdulkadir/ecom-web-app.)**  
    A full-stack e-commerce web application.  
    Tools: Docker, Sonarqube, Kubernetes, AWS.  
 
