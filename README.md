@@ -29,7 +29,7 @@
 6. **[Automation Scripts](https://github.com/RidwanAbdulkadir/scripts)**  
    Collection of Bash and Python scripts for automating DevOps workflows.  
 
-7. **[Online Library Web App](https://github.com/IsaacMorah/online-library-webapp.git)**  
+7. **[Online Library Web App](https://github.com/RidwanAbdulkadir/online-library-webapp)**  
    A web application for managing an online library.  
    Tools: Python, Flask, Docker.  
 
